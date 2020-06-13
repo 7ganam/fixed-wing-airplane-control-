@@ -1,0 +1,4 @@
+open protues.
+douple click on arduino board in the simulation.
+enter the hex file found in dislay file.
+run the simulation.
